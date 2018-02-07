@@ -1,0 +1,22 @@
+{
+  "name": "booklet-code",
+  "main": "server.js",
+  "description": "\"Пример создания файла JSON\"",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmbase/LessonNodeJS.git"
+  },
+  "author": "dmbase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmbase/LessonNodeJS/issues"
+  },
+  "homepage": "https://github.com/dmbase/LessonNodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
